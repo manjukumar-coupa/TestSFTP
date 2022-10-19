@@ -3,7 +3,9 @@ Python script to monitor SFTP connections
 
 Python script used to test the connection by runnning (listdir, get, put) for a given site to proactively monitor for any connection or timed out issues.
 
-### **Versions:** Python 3.x
+### **Prerequisites:** pysftp
+
+### **Versions:** 3.x
 
 ```
 ├── README.md

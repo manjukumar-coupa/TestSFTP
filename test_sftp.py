@@ -4,9 +4,9 @@ testSFTP.py: Python script to monitor SFTP site for connection issues
     * h_name: hostname for the site
     * u_name: username for the site
     * p_val: password for the site
+    * s_dir: Location of test file
     * s_file: source location of test file
     * r_file: remote file name
-version: 3.x
 """
 
 import signal
