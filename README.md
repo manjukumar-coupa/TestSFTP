@@ -9,8 +9,10 @@ Python script used to test the connection by runnning (listdir, get, put) for a 
 
 ```
 ├── README.md
-├── test_sftp.log
+├── script.log
+├── sftptestfile
 ├── site.ini
+├── test_sftp.log
 └── test_sftp.py
 ```
 **test_sftp.py** - Python script for performing the checks
@@ -18,6 +20,8 @@ Python script used to test the connection by runnning (listdir, get, put) for a 
 **site.ini** - Details on sites to be monitored
 
 **test_sftp.log** - File contiaining logs of the current execution (will be overwritten on each run)
+
+**sftptestfile** - Test File
 
 ## Command
 ```
