@@ -9,7 +9,6 @@ Python script used to test the connection by runnning (listdir, get, put) for a 
 
 ```
 ├── README.md
-├── script.log
 ├── sftptestfile
 ├── site.ini
 ├── test_sftp.log
